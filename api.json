@@ -1,0 +1,105 @@
+{
+    "user": [
+{
+    "id": 1,
+    "tipodoc":"Cédula Ciudadanía",
+    "numdoc":"1234567890",
+    "nombre":"Maria Camila",
+    "apellido":"perez gomez",
+    "fnacimiento": "1989-12-13",
+    "email": "mariacamila13@gmail.com",
+    "password":"qwerty"
+},
+{
+    "id": 2,
+    "tipodoc":"Cédula Ciudadanía",
+    "numdoc":"198765432",
+    "nombre":"Carlos Andres",
+    "apellido":"lopez mendez",
+    "fnacimiento": "1987-03-15",
+    "email": "lopezmendezA@gmail.com",
+    "password":"123456"
+    }
+    ],
+    "producto":[
+        {
+    "id":1,
+    "nombreProducto":"Cama conejo",
+    "pisos":3,
+    "altura": 1.50 ,
+    "material": "Termico",
+    "Color":"Beige",
+    "valor":450000
+},
+{
+    "id":2,
+    "nombreProducto":"Cama gato",
+    "material":"Poliester",
+    "Tamaño":"Pequeña",
+    "Modelo":"Redonda",
+    "valor":50000
+},
+{
+    "id":3,
+    "nombreProducto":"Cama Perro",
+    "material":"Poliester",
+    "Tamaño":"Mediando",
+    "Modelo":"Ovalada",
+    "valor":54000
+    },
+ {
+    "id":4,
+    "nombreProducto":"Gimnasio para Gatos",
+    "material":"termico",
+    "Tamaño":"Mediando",
+    "Modelo":"cuadrada",
+    "valor":170000
+        }
+    ],
+    "Tienda": [
+{
+    "id": 2,
+    "fechareserva": "Mis Huellitas",
+    "idTienda":12843563,
+    "Direccion":"Calle 127. Calle 125, 23-90, Bogotá, Colombia"
+},
+{
+    "id": 2,
+    "fechareserva": "Mundo Animal",
+    "idTienda":37259456,
+    "Direccion":"Calle 127 con carrera 15, Medellin "
+    }
+  ]
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
